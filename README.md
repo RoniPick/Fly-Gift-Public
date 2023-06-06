@@ -1,6 +1,6 @@
 # FlyGift
 
-** FlyGift is a React application designed to provide an easy and reliable platform for employers to purchase gift cards for their employees. The application integrates a search engine, payment APIs, and various client functionalities. **
+**FlyGift is a React application designed to provide an easy and reliable platform for employers to purchase gift cards for their employees. The application integrates a search engine, payment APIs, and various client functionalities.**
 
 ## Table of Contents
 1. Introduction
