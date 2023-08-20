@@ -1,4 +1,4 @@
-# GiftCard
+# FlyGift
 
 ![image](https://github.com/RoniPick/Fly-Gift-Public/assets/92720540/1a7120fb-c561-476a-807d-5bb8b2c74053)
 
